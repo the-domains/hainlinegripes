@@ -1,7 +1,7 @@
 name: hainlinegripes
 favicon: null
-layout_spectrum: 0.01948
-typography_spectrum: 0.02994
+layout_spectrum: 0.14922295697033405
+typography_spectrum: 0.491984840715304
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.875
+  brandStrength: 0.33005181211046875
   lightness: 0.8937153085134923
-  saturation: 0.75
-  rhythmicContrast: 0.75
+  saturation: 0.6329774262849241
+  rhythmicContrast: 0.6064111848827451
 purpose: []
