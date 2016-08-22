@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: People who take too long to get off airplanes
-datePublished: '2016-08-22T12:08:33.034Z'
-dateModified: '2016-08-22T12:06:56.039Z'
+datePublished: '2016-08-22T12:10:33.822Z'
+dateModified: '2016-08-22T12:10:14.060Z'
 title: ''
 author: []
 via: {}
